@@ -48,6 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [why I was the right person to be a GDSC Leader at your University](https://www.youtube.com/watch?v=iJu39auSdEE)
+- [about a challenge students are facing on your campus in becoming developers and how DSC can help](https://www.youtube.com/watch?v=85hR182X4wc)
+- [what developer product or platform you are curious about and why](https://www.youtube.com/watch?v=urZdCRmOMx0)
+- [#02 Python Tutorial for Beginners | Python Installation | Telugu](https://www.youtube.com/watch?v=OCdnIwLAJOU)
+- [#01 Python Tutorial for Beginners | Introduction to Python | Telugu](https://www.youtube.com/watch?v=MyqeQ52v598)
 <!-- YOUTUBE:END -->
 
 
@@ -59,6 +64,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/karthik-dasari/Aadhivas-website/pull/1) in [karthik-dasari/Aadhivas-website](https://github.com/karthik-dasari/Aadhivas-website)
+2. 💪 Opened PR [#1](https://github.com/karthik-dasari/Aadhivas-website/pull/1) in [karthik-dasari/Aadhivas-website](https://github.com/karthik-dasari/Aadhivas-website)
 <!--END_SECTION:activity-->
 
 </details>

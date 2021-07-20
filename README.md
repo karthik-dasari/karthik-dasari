@@ -64,6 +64,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/karthik-dasari/Aadhivas-website/pull/1) in [karthik-dasari/Aadhivas-website](https://github.com/karthik-dasari/Aadhivas-website)
+2. 💪 Opened PR [#1](https://github.com/karthik-dasari/Aadhivas-website/pull/1) in [karthik-dasari/Aadhivas-website](https://github.com/karthik-dasari/Aadhivas-website)
 <!--END_SECTION:activity-->
 
 </details>

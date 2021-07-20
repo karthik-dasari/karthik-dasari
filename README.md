@@ -28,17 +28,17 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
 [<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org)
 [<img align="left" alt="C" width="26px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>](https://www.gnu.org/software/gnu/c-manual/html_node/index.html)
-[<img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/java-%23E69C00.svg?style=for-the-badge&logo=java&logoColor=white"/>](https://www.oracle.com/technetwork/java/javase/downloads/index.html)]
+[<img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/java-%23E69C00.svg?style=for-the-badge&logo=java&logoColor=white"/>](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 [<img align="left" alt="C++" width="26px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="Dart" width="26px" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>](https://www.dartlang.org)]
-[<img align="left" alt="Bootstrap" width="26px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>](https://getbootstrap.com)]
+[<img align="left" alt="Dart" width="26px" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>](https://www.dartlang.org)
+[<img align="left" alt="Bootstrap" width="26px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>](https://getbootstrap.com)
 [<img align="left" alt="Django" width="26px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>](https://www.djangoproject.com)
 [<img align="left" alt="Flask" width="26px" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>](https://flask.palletsprojects.com)
 [<img align="left" alt="Flutter" width="26px" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />](https://flutter.dev)
-[<img align="left" alt="Figma" width="26px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>](https://www.figma.com)]
-[<img align="left" alt="Atom" width="26px" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>](https://atom.io)]
+[<img align="left" alt="Figma" width="26px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>](https://www.figma.com)
+[<img align="left" alt="Atom" width="26px" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>](https://atom.io)
 [<img align="left" alt="Heroku" width="26px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://www.heroku.com)
-[<img align="left" alt="Raspberry Pi" width="26px" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />](https://www.raspberrypi.org)]
+[<img align="left" alt="Raspberry Pi" width="26px" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />](https://www.raspberrypi.org)
 
 <br />
 <br />
@@ -66,7 +66,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="karthik-dasari's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=karthik-dasari&show_icons=true&hide_border=true&theme=radical" />
+![karthik-dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik-dasari&show_icons=true&hide_border=true&theme=radical)
+
 
 </details>
 

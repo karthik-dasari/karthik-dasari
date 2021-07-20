@@ -41,7 +41,8 @@
 [<img align="left" alt="Raspberry Pi"  src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />](https://www.raspberrypi.org)
 
 <br />
-<br />
+
+---
 
 ### 📺 Latest YouTube Videos
 

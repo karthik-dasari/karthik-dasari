@@ -64,7 +64,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
 ![karthik-dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik-dasari&show_icons=true&hide_border=true&theme=radical)
 

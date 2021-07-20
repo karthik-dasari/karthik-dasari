@@ -63,13 +63,9 @@
 
 </details>
 
-<details>
-
 
 ![karthik-dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik-dasari&show_icons=true&hide_border=true&theme=radical)
 
-
-</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-dasari)](https://github.com/anuraghazra/github-readme-stats)
 

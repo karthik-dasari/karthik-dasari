@@ -49,11 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [why I was the right person to be a GDSC Leader at your University](https://www.youtube.com/watch?v=iJu39auSdEE)
-- [about a challenge students are facing on your campus in becoming developers and how DSC can help](https://www.youtube.com/watch?v=85hR182X4wc)
-- [what developer product or platform you are curious about and why](https://www.youtube.com/watch?v=urZdCRmOMx0)
 - [#02 Python Tutorial for Beginners | Python Installation | Telugu](https://www.youtube.com/watch?v=OCdnIwLAJOU)
 - [#01 Python Tutorial for Beginners | Introduction to Python | Telugu](https://www.youtube.com/watch?v=MyqeQ52v598)
+- [#0 Python Tutorial | Python Programming Tutorial for Beginners | Introduction](https://www.youtube.com/watch?v=4CIYCqWc0y4)
+- [11 Python Tips & Tricks || Python Clever Tips || Learn Python Shortcuts](https://www.youtube.com/watch?v=GldgZdaTp-A)
+- [Send What'sApp Messages in a easy way with a simple code in Python|| What'sApp Hack|| My Own Project](https://www.youtube.com/watch?v=xtUqeaohHAY)
 <!-- YOUTUBE:END -->
 
 

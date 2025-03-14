@@ -1,6 +1,6 @@
 ### Hi there, I'm Karthik Dasari 👋
 
-## Software Developer Engineer - 1, Full Stack Developer!!
+## Software Developer Engineer - 2, Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 
 - 💻 I love to code and build things

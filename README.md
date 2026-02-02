@@ -1,82 +1,153 @@
-### Hi there, I'm Karthik Dasari 👋
+## Hi there, I'm Karthik Dasari 👋  
 
-## Software Developer Engineer - 2, Full Stack Developer!!
+🚀 **Software Development Engineer (SDE-2) | Full-Stack, AI Systems Engineer & Freelancer**  
+Building scalable web platforms, AI-powered video systems, and cloud-native products.
 
-- 🌱 I’m currently learning everything 
-- 💻 I love to code and build things
-- 🚀 I love to learn new things
-- 👨‍💻 I love to share my knowledge
-- 🎓 I’m an Open-Source enthusiast
 
-### Connect with me:
+### 👨‍💻 About Me
 
-[<img align="left" alt="karthik dasari | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="karthik dasari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="karthik dasari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="karthik dasari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 💼 Software Development Engineer (SDE-2) with real-world **production experience**
+- 🧠 Strong focus on **system design, scalability & performance**
+- 🎥 Working extensively on **AI-based Video Management Systems (VMS)**
+- 🌐 Experienced in **cloud + on-prem deployments**
+- 🔁 Love building **end-to-end products** — frontend → backend → infra
+- 🤝 Open-source enthusiast & knowledge sharer
+- 🚀 Always learning, always building
 
-<br />
+<br/>
 
-### Languages and Tools:
+### 🧑‍💼 Freelancer & Consultant
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3.org/TR/html5/)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/Style/CSS/)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3.org/TR/html5/)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
-[<img align="left" alt="Python"  src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org)
-[<img align="left" alt="C"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>](https://www.gnu.org/software/gnu/c-manual/html_node/index.html)
-[<img align="left" alt="Java"  src="https://img.shields.io/badge/java-%23E69C00.svg?style=for-the-badge&logo=java&logoColor=white"/>](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-[<img align="left" alt="C++"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="Dart"  src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>](https://www.dartlang.org)
-[<img align="left" alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>](https://getbootstrap.com)
-[<img align="left" alt="Django"  src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>](https://www.djangoproject.com)
-[<img align="left" alt="Flask"  src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>](https://flask.palletsprojects.com)
-[<img align="left" alt="Flutter"  src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />](https://flutter.dev)
-[<img align="left" alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>](https://www.figma.com)
-[<img align="left" alt="Atom"  src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>](https://atom.io)
-[<img align="left" alt="Heroku"  src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://www.heroku.com)
-[<img align="left" alt="Raspberry Pi"  src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />](https://www.raspberrypi.org)
+[![Freelance Available](https://img.shields.io/badge/Available%20for-Freelance-00C853?style=for-the-badge)](https://www.linkedin.com/in/karthik-dasari/)
 
-<br />
-<br />
-<br />
+I also work as a **Freelance Software Engineer**, helping startups and businesses build  
+**robust, scalable, and production-ready systems**.
+
+**I help with:**
+- 🌐 Full-stack web applications
+- 🧠 AI & Computer Vision solutions
+- 🎥 Video streaming & surveillance platforms
+- 🏗️ System architecture & technical consulting
+- ☁️ Cloud, DevOps & on-prem deployments
+- 🔐 Secure & optimized backend systems
+
+📌 *Open for freelance projects, long-term engagements & POCs.*
+
+<br/>
 
 ---
 
-### 📺 Latest YouTube Videos
+### 🛠️ Tech Stack
 
-<!-- YOUTUBE:START -->
-- [#02 Python Tutorial for Beginners | Python Installation | Telugu](https://www.youtube.com/watch?v=OCdnIwLAJOU)
-- [#01 Python Tutorial for Beginners | Introduction to Python | Telugu](https://www.youtube.com/watch?v=MyqeQ52v598)
-- [#0 Python Tutorial | Python Programming Tutorial for Beginners | Introduction](https://www.youtube.com/watch?v=4CIYCqWc0y4)
-- [11 Python Tips &amp; Tricks || Python Clever Tips || Learn Python Shortcuts](https://www.youtube.com/watch?v=GldgZdaTp-A)
-- [Send What&#39;sApp Messages in a easy way with a simple code in Python|| What&#39;sApp Hack|| My Own Project](https://www.youtube.com/watch?v=xtUqeaohHAY)
-<!-- YOUTUBE:END -->
+#### 💻 Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/python/python.png" width="30" title="Python"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/javascript/javascript.png" width="30" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/typescript/typescript.png" width="30" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/java/java.png" width="30" title="Java"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/c/c.png" width="30" title="C"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/cpp/cpp.png" width="30" title="C++"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/dart/dart.png" width="30" title="Dart"/>
+</p>
+
+
+
+#### 🌐 Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/react/react.png" width="30" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/nextjs/nextjs.png" width="30" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/html/html.png" width="30" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/css/css.png" width="30" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/bootstrap/bootstrap.png" width="30" title="Bootstrap"/>
+</p>
+
+
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/django/django.png" width="30" title="Django"/>
+  <img src="https://img.shields.io/badge/Flask-0F172A?style=flat&logo=flask&logoColor=white" title="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" title="FastAPI"/>
+</p>
+
+
+
+#### 🎥 AI & Streaming
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-black?style=flat" title="YOLO"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" title="OpenCV"/>
+  <img src="https://img.shields.io/badge/WebRTC-6A13F3?style=flat&logo=webrtc&logoColor=white" title="WebRTC"/>
+  <img src="https://img.shields.io/badge/RTSP-000000?style=flat&logo=ffmpeg&logoColor=white" title="RTSP"/>
+  <img src="https://img.shields.io/badge/GStreamer-0F9D58?style=flat&logo=gstreamer&logoColor=white" title="GStreamer"/>
+  <img src="https://img.shields.io/badge/FFmpeg-000000?style=flat&logo=ffmpeg&logoColor=white" title="FFmpeg"/>
+</p>
+
+
+
+#### 🗄️ Databases & Messaging
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/postgresql/postgresql.png" width="30" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/mysql/mysql.png" width="30" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/redis/redis.png" width="30" title="Redis"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" title="Apache Kafka"/>
+</p>
+
+
+
+#### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/docker/docker.png" width="30" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/nginx/nginx.png" width="30" title="Nginx"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/aws/aws.png" width="30" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/actions/actions.png" width="30" title="GitHub Actions"/>
+</p>
+
+
+
+#### 🔧 Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/git/git.png" width="30" title="Git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/github/github.png" width="30" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/visual-studio-code/visual-studio-code.png" width="30" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/figma/figma.png" width="30" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/raspberry-pi/raspberry-pi.png" width="30" title="Raspberry Pi"/>
+</p>
 
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/karthik-dasari/Aadhivas-website/pull/1) in [karthik-dasari/Aadhivas-website](https://github.com/karthik-dasari/Aadhivas-website)
-2. 💪 Opened PR [#1](https://github.com/karthik-dasari/Aadhivas-website/pull/1) in [karthik-dasari/Aadhivas-website](https://github.com/karthik-dasari/Aadhivas-website)
-<!--END_SECTION:activity-->
+<br/>
 
-</details>
+### 🚀 What I’m Currently Working On
 
-
-![karthik-dasari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik-dasari&show_icons=true&hide_border=true&theme=radical)
+- 🧠 AI-powered **Video Management System (VMS)**
+- 🎥 CPU-optimized AI inference using **ONNX**
+- 🔄 Distributed camera & recording pipelines
+- 🏗️ High-availability & failover architectures
+- 📦 Secure Docker-based on-prem deployments
+- 📊 Event-driven systems using Kafka
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-dasari)](https://github.com/anuraghazra/github-readme-stats)
+### 🌱 Currently Learning
+
+- Advanced **System Design**
+- Distributed systems & observability
+- Large-scale AI & video workloads
+- Performance tuning & cost optimization
 
 
-[twitter]: https://twitter.com/KARTHIKDASARI26
-[youtube]: https://youtube.com/channel/UC97iREC90-ocbFgJK5O1faA
-[instagram]: https://instagram.com/its_karthik_dasari
-[linkedin]: https://www.linkedin.com/in/karthik-dasari-826852196/
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![Instagram](https://img.shields.io/badge/Instagram-1f2937?style=flat&logo=instagram&logoColor=E4405F)][instagram]
+[![YouTube](https://img.shields.io/badge/YouTube-181717?style=flat&logo=youtube&logoColor=FF0000)][youtube]
+
+<br/>
+
+⭐ *Open to collaborations, freelance work, and impactful engineering challenges.*
+
+[twitter]: https://twitter.com/KARTHIKDASARI26  
+[youtube]: https://youtube.com/channel/UC97iREC90-ocbFgJK5O1faA  
+[instagram]: https://instagram.com/its_karthik_dasari  
+[linkedin]: https://www.linkedin.com/in/karthik-dasari

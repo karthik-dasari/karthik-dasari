@@ -151,3 +151,8 @@ I also work as a **Freelance Software Engineer**, helping startups and businesse
 [youtube]: https://youtube.com/channel/UC97iREC90-ocbFgJK5O1faA  
 [instagram]: https://instagram.com/its_karthik_dasari  
 [linkedin]: https://www.linkedin.com/in/karthik-dasari
+
+---
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=karthik-dasari.karthik-dasari&"  />
+</div>
